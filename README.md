@@ -2,7 +2,8 @@
 
 Welcome to Project 2! It's time to start modeling.
 
-**Primary Learning Objectives:**
+## Primary Learning Objectives
+
 1. Creating and iteratively refining a regression model
 2. Using [Kaggle](https://www.kaggle.com/) to practice the modeling process
 3. Providing business insights through reporting and presentation.
@@ -24,8 +25,8 @@ As always, you will be submitting a technical report and a presentation. **You m
 Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
-2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up](https://www.kaggle.com/t/2dde5663e03b4165b853ff65e723c26d)) to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the [DSI-US-11 Regression Challenge](https://www.kaggle.com/c/dsi-us-11-project-2-regression-challenge)
+2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up](https://www.kaggle.com/t/1137c1705e934d4fb9dd40aeab4e4912)) to **join** the competition (otherwise you will not be able to make submissions!)
+3. Review the material on the [DSIR-712 Regression Challenge](https://www.kaggle.com/c/dsir-712-project-2-regression-challenge)
 4. Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
 
 ## The Modeling Process
@@ -47,15 +48,15 @@ Before you begin working on this project, please do the following:
 
 ## Submission
 
-Materials must be submitted by the beginning of class on **Friday, April 10**.
+Materials must be submitted by the beginning of class on **Monday, August 9**.
 
-The last day for the Kaggle competition will be **Friday, April 10**.
+The last day for the Kaggle competition will be **Monday, August 9**.
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
 - A README.md (that isn't this file)
 - Jupyter notebook(s) with your analysis and models (renamed to describe your project)
-- At least one successful prediction submission on [DSI-US-11 Regression Challenge](https://www.kaggle.com/c/dsi-us-11-project-2-regression-challenge) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsi-us-11-project-2-regression-challenge/leaderboard)" tab.
+- At least one successful prediction submission on [DSIR-712 Regression Challenge](https://www.kaggle.com/c/dsir-712-project-2-regression-challenge) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsir-712-project-2-regression-challenge/leaderboard)" tab.
 - Data files
 - Presentation slides
 - Any other necessary files (images, etc.)
@@ -80,10 +81,11 @@ Be sure to rehearse and time your presentation before class.
 ---
 
 ## Rubric
+
 Your local instructor will evaluate your project (for the most part) using the following criteria.  You should make sure that you consider and/or follow most if not all of the considerations/recommendations outlined below **while** working through your project.
 
-**Scores will be out of 27 points based on the 9 items in the rubric.** <br>
-*3 points per section*<br>
+**Scores will be out of 27 points based on the 9 items in the rubric.** 
+*3 points per section*
 
 | Score | Interpretation |
 | --- | --- |
