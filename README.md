@@ -9,13 +9,13 @@
 
 ## Problem Statement
 
-Before you begin working on this project, please do the following: Sign up for an accounClick tompetition (otherwise you will not be able to make submissions! Review the materi
+There are many things to consider when a person is looking for a home or a homeowner is looking to sell. This project goes in depth about features that directly affect sale price of homes in Ames, Iowa 
 
 ## Process and Modeling
 
-The train dataset has all of the columns that you will need to generate and refine your models. The test dataset has all of those columns except for the target that you are trying to predict in your Regression model.
+The model showes the features that had the most impact on sale price was Overall Quality, Total Square Footage, and Garage Area. These features showed a correlation greater than 0.5 with sale price. 
 
 
 ## Conclusion and Recommendations
 
-Materials must be submitted by the beginninData filesPresentation slidesAny other necessary files (images, etc.)
+Overall quality had the most correlation to sale price and other features like home renovations can increase the value of a home and increase the sale price.
