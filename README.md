@@ -1,15 +1,15 @@
-# Project 2 - Ames Housing Data and Kaggle Challenge
+# Ames Housing Data and Kaggle Challenge
 
 
 ## Table of Contents
 
-1. Problem Statement
-2. Process and Modeling
-3. Conclusion and Recommendations
+1. [Problem Statement](Problem-Statement)
+2. [Process and Modeling](Process-and-Modeling)
+3. [Conclusion and Recommendations](Conclusion-and-Recommendations)
 
 ## Problem Statement
 
-There are many things to consider when a person is looking for a home or a homeowner is looking to sell. This project goes in depth about features that directly affect sale price of homes in Ames, Iowa 
+There are many things to consider when a person is looking for a home or a homeowner is looking to sell. The data goes in depth about features that directly affect sale price of homes in Ames, Iowa 
 
 ## Process and Modeling
 
