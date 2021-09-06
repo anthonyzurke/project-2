@@ -13,9 +13,7 @@
 
 ## Problem Statement
 
-There are many things to consider when a person is looking for a home or a homeowner is looking to sell. find the features that most impact a home's sale price
-
-The data goes in depth about features that directly affect sale price of homes in Ames, Iowa 
+There are many things to consider when a person is looking for a home or a homeowner is looking to sell. In this analysis we must find the features that most impact a home's sale price.
 
 ---
 
@@ -27,7 +25,7 @@ The models used were Linear Regression, Lasso, and Ridge. In addition, these mod
 
 |Model             |R2 traing score   |R2 testing score  |Average Cross Val Score    |
 |---               |---               |---               |---                        |
-|Linear Regression |0.928             |0.902             |0.832                      |
+|MLR               |0.928             |0.902             |0.832                      |
 |Lasso             |0.925             |0.905             |0.873                      |
 |Ridge             |0.928             |0.903             |0.851                      |
 
